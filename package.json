@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-ryanzim",
+  "version": "0.0.0",
+  "description": "My personal ESLint config",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Ryan Zimmerman <opensrc@ryanzim.com> (http://ryanzim.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanZim/eslint-config-ryanzim.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RyanZim/eslint-config-ryanzim/issues"
+  },
+  "homepage": "https://github.com/RyanZim/eslint-config-ryanzim#readme",
+  "devDependencies": {
+    "eslint": "^3.12.2"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "scripts": {
+    "test": "eslint ."
+  }
+}
