@@ -1,7 +1,7 @@
 # eslint-config-ryanzim
 
 [![npm](https://img.shields.io/npm/v/eslint-config-ryanzim.svg)](https://www.npmjs.com/package/eslint-config-ryanzim)
-[![npm](https://img.shields.io/npm/l/eslint-config-ryanzim.svg)]()
+[![npm](https://img.shields.io/npm/l/eslint-config-ryanzim.svg)](LICENSE)
 
 This is still a WIP. This config will probably get stricter as time goes on.
 
