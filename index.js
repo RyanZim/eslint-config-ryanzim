@@ -29,5 +29,7 @@ module.exports = {
     'linebreak-style': ['error', 'unix'],
     'eol-last': 'error',
     'no-trailing-spaces': 'error',
+    // OVERIDE ESLINT:RECOMMENDED:
+    'no-console': 'warn',
   },
 };

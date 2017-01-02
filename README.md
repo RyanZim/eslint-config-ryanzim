@@ -17,6 +17,8 @@ This is not a full listing of all the rules, just the more controversial parts o
 - Use single-quotes, unless the string contains the `'` character (Template Literals allowed)
 - Use a separate `var` statement for each variable
 
+This config will emit a warning when `console` is used; if you are developing a command-line tool, turn this rule off.
+
 This config uses the ES6 ESLint parser.
 
 ## Licence
